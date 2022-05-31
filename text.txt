@@ -1,0 +1,251 @@
+
+        <!-- <div class="container-fluid carousel-con position-relative m-0 p-0">
+                <div class="row p-0 m-0 carousel-row">
+                    <div class="col-xxl-12 car-slider">
+                        <div id="carouselExampleIndicators" class="
+                            carousel
+                            slide
+                            position-absolute
+                            top-50
+                            start-50
+                            translate-middle
+                            text-center  
+                          " data-bs-ride="carousel">
+                            <div class="carousel-indicators indicators">
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                                    class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                                    aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                                    aria-label="Slide 3"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                                    aria-label="Slide 4"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4"
+                                    aria-label="Slide 5"></button>
+                            </div>
+                            <div class="carousel-inner p-5">
+                                <div class="carousel-item active">
+                                    <img src="./pics/1156713 (1).jpg" alt="" class="testimonial__photo" />
+                                    <h5 class="testimonial__header">
+                                        Best Student
+                                    </h5>
+
+                                    <p class="carousel-para ps-5 pe-5 fw-light text-light">
+                                        orem ipsum dolor sit, amet consectetur adipisicing elit.
+                                        Accusantium quas quisquam non?
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./pics/718050.jpg" alt="" class="testimonial__photo" />
+                                    <h5 class="testimonial__header">
+                                        The Best Teachers
+                                    </h5>
+
+                                    <p class="carousel-para ps-5 pe-5 fw-light text-light">
+                                        orem ipsum dolor sit, amet consectetur adipisicing elit.
+                                        Accusantium quas quisquam non?
+                                    </p>
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./pics/annie-spratt-QckxruozjRg-unsplash.jpg" alt=""
+                                        class="testimonial__photo" />
+                                    <h5 class="testimonial__header">
+                                        The Best Netwroking
+                                    </h5>
+
+                                    <p class="carousel-para ps-5 pe-5 fw-light text-light">
+                                        orem ipsum dolor sit, amet consectetur adipisicing elit.
+                                        Accusantium quas quisquam non?
+                                    </p>
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./pics/terry-vlisidis-WsEbnsnKbUE-unsplash.jpg" alt=""
+                                        class="testimonial__photo" />
+                                    <h5 class="testimonial__header">
+                                        The Best Education
+                                    </h5>
+
+                                    <p class="carousel-para ps-5 pe-5 fw-light text-light">
+                                        orem ipsum dolor sit, amet consectetur adipisicing elit.
+                                        Accusantium quas quisquam non?
+                                    </p>
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./pics/jaredd-craig-HH4WBGNyltc-unsplash.jpg" alt=""
+                                        class="testimonial__photo" />
+                                    <h5 class="testimonial__header">
+                                        Online meetings
+                                    </h5>
+
+                                    <p class="carousel-para ps-5 pe-5 fw-light text-light">
+                                        orem ipsum dolor sit, amet consectetur adipisicing elit.
+                                        Accusantium quas quisquam non?
+                                    </p>
+                                </div>
+                            </div>
+                          <button class="carousel-control-prev p-0 prev" type="button"
+                                data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next next" type="button"
+                                data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button> 
+        </div>
+    </div>
+    </div>
+
+    </div> -->
+
+
+    
+
+     <div class="demo demo2">
+            <div class="item">
+                <ul id="content-slider" class="content-slider">
+                    <li>
+                        <div class="container_subjects">
+                            <div class="box_subject">
+                                <div class="details_subject">
+                                    <div class="card">
+                                        <img class="card-img-top img_subject" src="./pics/718050.jpg" alt="">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Life Orentation</h4>
+                                            <p class="card-text">Life Orientation is the holistic study of the
+                                                self in relation to others and to society. It develops learners'
+                                                online interpersonal skills and prepares them for life's
+                                                responsibilities and possibilities</p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="container_subjects">
+                            <div class="box_subject">
+                                <div class="details_subject">
+                                    <div class="card">
+                                        <img class="card-img-top img_subject" src="./pics/718050.jpg" alt="">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Life Orentation</h4>
+                                            <p class="card-text">Life Orientation is the holistic study of the
+                                                self in relation to others and to society. It develops learners'
+                                                online interpersonal skills and prepares them for life's
+                                                responsibilities and possibilities</p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="container_subjects">
+                            <div class="box_subject">
+                                <div class="details_subject">
+                                    <div class="card">
+                                        <img class="card-img-top img_subject" src="./pics/718050.jpg" alt="">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Life Orentation</h4>
+                                            <p class="card-text">Life Orientation is the holistic study of the
+                                                self in relation to others and to society. It develops learners'
+                                                online interpersonal skills and prepares them for life's
+                                                responsibilities and possibilities</p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="container_subjects">
+                            <div class="box_subject">
+                                <div class="details_subject">
+                                    <div class="card">
+                                        <img class="card-img-top img_subject" src="./pics/718050.jpg" alt="">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Life Orentation</h4>
+                                            <p class="card-text">Life Orientation is the holistic study of the
+                                                self in relation to others and to society. It develops learners'
+                                                online interpersonal skills and prepares them for life's
+                                                responsibilities and possibilities</p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="container_subjects">
+                            <div class="box_subject">
+                                <div class="details_subject">
+                                    <div class="card">
+                                        <img class="card-img-top img_subject" src="./pics/718050.jpg" alt="">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Life Orentation</h4>
+                                            <p class="card-text">Life Orientation is the holistic study of the
+                                                self in relation to others and to society. It develops learners'
+                                                online interpersonal skills and prepares them for life's
+                                                responsibilities and possibilities</p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="container_subjects">
+                            <div class="box_subject">
+                                <div class="details_subject">
+                                    <div class="card">
+                                        <img class="card-img-top img_subject" src="./pics/718050.jpg" alt="">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Life Orentation</h4>
+                                            <p class="card-text">Life Orientation is the holistic study of the
+                                                self in relation to others and to society. It develops learners'
+                                                online interpersonal skills and prepares them for life's
+                                                responsibilities and possibilities</p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="container_subjects">
+                            <div class="box_subject">
+                                <div class="details_subject">
+                                    <div class="card">
+                                        <img class="card-img-top img_subject" src="./pics/718050.jpg" alt="">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Life Orentation</h4>
+                                            <p class="card-text">Life Orientation is the holistic study of the
+                                                self in relation to others and to society. It develops learners'
+                                                online interpersonal skills and prepares them for life's
+                                                responsibilities and possibilities</p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+            </div>
+
+        </div>
